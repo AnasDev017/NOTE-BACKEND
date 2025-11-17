@@ -44,6 +44,6 @@ app.listen(PORT,()=>{
     console.log(`App is ruuning on Port ${PORT}`)
 })
 
-
+export default app;
 
 
